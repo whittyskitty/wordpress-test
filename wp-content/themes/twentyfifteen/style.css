@@ -287,9 +287,11 @@ blockquote b {
 
 address {
 	font-style: italic;
-	margin: 0 0 1.6em;
+	margin: 0 0 1.6;
 }
-
+h1 {
+	color:red!important;
+}
 code,
 kbd,
 tt,
